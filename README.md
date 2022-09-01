@@ -1,5 +1,7 @@
-# Yo 🦊
-## What's up?
+### Yo 🦊
+#### What's up?
+
+---
 
 I am Arthur, undergraduate student at Technical University of Moldova!
 ```yaml
