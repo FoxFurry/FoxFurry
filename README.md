@@ -1,9 +1,4 @@
-<h2 style="text-align:right">
- <span style="float:left"> 
-   Yo 🦊 
- </span>
- What's up?
-</h2>
+### 🦊 Yo! How is it going?  
 
 ---
 
