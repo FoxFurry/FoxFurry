@@ -1,9 +1,12 @@
-### Yo 🦊
-#### What's up?
+<h2 style="text-align:right">
+ <span style="float:left"> 
+   Yo 🦊 
+ </span>
+ What's up?
+</h2>
 
 ---
 
-I am Arthur, undergraduate student at Technical University of Moldova!
 ```yaml
 Arthur:
   graduation: "Last year of CS bachelor's, Technical University of Moldova"
@@ -19,6 +22,8 @@ Arthur:
 ---
 
 <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=FoxFurry&show_icons=true&theme=radical">
+
+<br>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
