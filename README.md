@@ -15,7 +15,7 @@ Arthur:
 ```
 
 
-<img align="right" width="35%" src="https://github-readme-stats-ouuan.vercel.app/api?username=FoxFurry&show_icons=true&theme=radical">
+<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=FoxFurry&show_icons=true&theme=radical">
 
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
