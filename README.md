@@ -14,6 +14,7 @@ Arthur:
   languages: "English/Romanian/Russian"
 ```
 
+---
 
 <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=FoxFurry&show_icons=true&theme=radical">
 
