@@ -5,7 +5,14 @@ concurrency:
 
 on:
   workflow_dispatch:
-
+    inputs:
+      env:
+        type: choice
+        description: Environment to deploy
+        options: 
+        - production
+        - stage2
+        
 jobs:
   # This workflow contains a single job called "build"
   build:
