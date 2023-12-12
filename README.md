@@ -4,7 +4,7 @@
 
 ```yaml
 Arthur:
-  graduation: "Last year of CS bachelor's, Technical University of Moldova"
+  graduation: "CS bachelor's, Technical University of Moldova"
   current_role: "Software Engineer"
   interests: 
     - "Love solving algorithmic and architectural problems"
